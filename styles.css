@@ -1,0 +1,117 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+body {
+    /* height: 722px; */
+}
+
+a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: .1em .25em;
+    border-radius: 10px;
+    font-size: 1em;
+    border: 1px solid hsl(201, 100%, 6%);
+}
+
+.signUp-container {
+    background: url("background_image.jpg") no-repeat center center/cover;
+    width: 1536px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: red; */
+}
+
+.signUp {
+    background-color: hsla(203, 90%, 4%, 0.6);
+    width: 50%;
+    /* height: 100%; */
+    padding: 50px 30px;
+    min-width: 400px;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    /* margin-bottom: 40px; */
+    font-size: 3em;
+    /* margin-bottom: 7px; */
+}
+
+form {
+    /* background-color: hsla(201, 100%, 6%, 0.6); */
+    /* width: 300px; */
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+label {
+    /* text-align: center; */
+    font-weight: lighter;
+    color: white;
+    font-size: 1.5em;
+}
+
+input,
+button {
+    color: white;
+    outline: none;
+    background-color: hsla(201, 100%, 91%, 0.3);
+    border: 1px solid hsl(201, 100%, 6%);
+    text-align: center;
+    background-color: transparent;
+    margin-bottom: 20px;
+    padding: .1em .25em;
+    border-radius: 10px;
+    font-size: 1em;
+}
+
+input:focus {
+    border: 1px solid hsl(201, 100%, 50%);
+}
+
+select,
+option {
+    background-color: hsla(201, 100%, 91%, 0.3);
+    text-align: center;
+    border-color: hsl(201, 100%, 6%);
+    font-size: 1em;
+    margin-bottom: 20px;
+    padding: .1em .25em;
+    border-radius: 10px;
+}
+
+#submit {
+    background-color: hsla(203, 90%, 50%, 0.1);
+    padding: 5px 30px;
+    font-size: 1em;
+    font-weight: lighter;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#submit:hover {
+    background-color: hsla(203, 100%, 50%, 0.3);
+}
+
+#submit:focus {
+    background-color: hsla(203, 100%, 50%, 0.7);
+}
+
+@media screen and (max-width: 1342px) {
+    body {
+        display: none;
+    }
+}
