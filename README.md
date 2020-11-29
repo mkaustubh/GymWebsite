@@ -26,7 +26,7 @@ A Gym Website page as a front-end project.
 |Clicking `Contact` link on the navigation bar.|You are redirected to a page written various ways you can use to contact the gym.|
 |Clicking `Sign Up` link on the navigation bar.|You are redirected to a page where you can become a member of the gym.|
 
-## Sample Screenshot of a Part of the website
+## Sample Screenshots
 
 <div style="text-align:center">
     <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/1.jpeg">
