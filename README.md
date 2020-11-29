@@ -31,5 +31,10 @@ A Gym Website page as a front-end project.
 ## Sample Screenshot of a Part of the website
 
 <div style="text-align:center">
-    <img src="./images/landing.png">
+    <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/1.jpeg">
+    <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/2.jpeg">
+    <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/3.jpeg">
+    <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/4.jpeg">
+    <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/5.jpeg">
+    <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/6.jpeg">
 </div>
