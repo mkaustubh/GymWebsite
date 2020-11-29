@@ -1,6 +1,6 @@
 # GymWebsite
 A Gym Website page as a front-end project.
-- [Page](https://mkaustubh.github.io/GymWebsite/#schedule-container) - Final result of the project
+- [fullWebPage](https://mkaustubh.github.io/GymWebsite/#schedule-container) - Final result of the project
 - [Design](https://github.com/mkaustubh/GymWebsite/blob/gh-pages/copyright.jpg) - Website Idea
 
 ##  Built With
