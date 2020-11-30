@@ -36,7 +36,10 @@ A Gym Website page as a front-end project.
     <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/5.jpeg">
     <img src="https://github.com/mkaustubh/GymWebsite/blob/gh-pages/landing%20image/6.jpeg">
 </div>
+
+
 ## License
+
 MIT License
 
 Copyright (c) 2020 Kaustubh Mishra, and contributors
